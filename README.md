@@ -2,8 +2,13 @@
 
 ## Lesson-1:
 -->Bsics
+
 -->Remix setup
+
 -->Keywords
+
 -->Datatypes
+
 -->Function declarations
+
 -->version and license
