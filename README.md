@@ -1,5 +1,5 @@
 
-# Freecodecamp repo: 
+# Freecodecamp repository: 
 
                                   https://github.com/smartcontractkit/full-blockchain-solidity-course-js
 
