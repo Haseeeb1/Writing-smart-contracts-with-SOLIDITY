@@ -11,7 +11,7 @@
 # Writing-smart-contracts-with-SOLIDITY
 
 ## Lesson-1:
--->Bsics
+-->Basics
 
 -->Remix setup
 
@@ -22,3 +22,16 @@
 -->Function declarations
 
 -->version and license
+
+## Lesson-2:
+* Fields in a Transaction
+* More on v,r,s
+* payable
+* msg.value & Other global keywords
+* require
+* revert
+* Library
+* Solidity-by-example Library
+* Openzeppelin Safemath
+* unchecked vs. checked
+* Transfer, Send, Call
