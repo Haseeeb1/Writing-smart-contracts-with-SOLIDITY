@@ -11,17 +11,12 @@
 # Writing-smart-contracts-with-SOLIDITY
 
 ## Lesson-1:
--->Basics
-
--->Remix setup
-
--->Keywords
-
--->Datatypes
-
--->Function declarations
-
--->version and license
+* Basics
+* Remix setup
+* Keywords
+* Datatypes
+* Function declarations
+* version and license
 
 ## Lesson-2:
 * Fields in a Transaction
