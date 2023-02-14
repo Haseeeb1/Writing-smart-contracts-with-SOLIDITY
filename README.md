@@ -16,7 +16,8 @@
 * Keywords
 * Datatypes
 * Function declarations
-* version and license
+* version
+* license
 
 ## Lesson-2:
 * Fields in a Transaction
