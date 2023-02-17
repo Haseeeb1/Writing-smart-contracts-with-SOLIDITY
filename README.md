@@ -21,7 +21,6 @@
 
 ## Lesson-2:
 * Fields in a Transaction
-* More on v,r,s
 * payable
 * msg.value & Other global keywords
 * require
