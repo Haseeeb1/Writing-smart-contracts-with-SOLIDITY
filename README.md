@@ -2,11 +2,9 @@
 
                                   https://github.com/smartcontractkit/full-blockchain-solidity-course-js
 
-
 # Freecodecamp Youtube:
 
                                   https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36055s
-
 
 # Writing-smart-contracts-with-SOLIDITY
 
@@ -52,4 +50,5 @@
 - Getting your private key from Metamask
 - CTRL + C stops any terminal command
 - Verifying on Block Explorers from the UI
-- Alchemy Dashboard & The Mempool
+- Alchemy Dashboard
+- The Mempool
