@@ -20,7 +20,6 @@ describe("SimpleStorage", function () {
         const expectedValue = "7"
         const transactionResponse = await simpleStorage.store(expectedValue)
         await transactionResponse.wait(1)
-
         const currentValue = await simpleStorage.retrieve()
         assert(currentValue.toString(), expectedValue)
     })
