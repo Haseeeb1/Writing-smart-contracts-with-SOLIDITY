@@ -3,7 +3,6 @@ const { expect, assert } = require("chai")
 
 describe("SimpleStorage", function () {
     let simpleStorageFactory, simpleStorage
-
     beforeEach(async function () {
         simpleStorageFactory = await ethers.getContractFactory("SimpleStorage")
         simpleStorage = await simpleStorageFactory.deploy()
