@@ -1,6 +1,5 @@
 const { ethers } = require("hardhat")
 const { expect, assert } = require("chai")
-
 describe("SimpleStorage", function () {
     let simpleStorageFactory, simpleStorage
     beforeEach(async function () {
