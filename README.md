@@ -1,5 +1,5 @@
 # Freecodecamp repository for the detailed guide:
-                                  https://github.com/smartcontractkit/full-blockchain-solidity-course-js
+                                   https://github.com/smartcontractkit/full-blockchain-solidity-course-js
 
 # Freecodecamp Youtube:
                                   https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36055s
@@ -24,7 +24,7 @@
 - require
 - revert
 - Library
-- Solidity-by-example Library
+- Solidity-by-example library
 - Openzeppelin Safemath
 - unchecked vs. checked
 - Transfer, Send, Call
@@ -43,10 +43,10 @@
 - .gitignore
 - wallet.encrypt
 - Prettier
-- Deploying to a Testnet or a Mainnet
+- Deploying to a Testnet or a Mainnet 
 - Alchemy
 - Getting your private key from Metamask
-- CTRL + C stops any terminal command
+- CTRL + C stops any terminal command running
 - Verifying on Block Explorers from the UI
 - Alchemy Dashboard
 - The Mempool
