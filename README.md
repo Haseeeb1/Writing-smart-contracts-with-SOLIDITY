@@ -4,7 +4,7 @@
 # Freecodecamp Youtube:
                                   https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36055s
 
-# Writing-smart-contracts-with-SOLIDITY
+# Writing-smart-contracts-with-SOLIDITY:
 
 ## Lesson-1:
 
