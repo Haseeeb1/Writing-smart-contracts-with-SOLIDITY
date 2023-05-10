@@ -7,7 +7,6 @@
 # Writing-smart-contracts-with-SOLIDITY:
 
 ## Lesson-1:
-
 - Basics
 - Remix setup
 - Keywords
